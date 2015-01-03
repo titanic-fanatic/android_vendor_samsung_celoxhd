@@ -107,4 +107,4 @@ PRODUCT_COPY_FILES += \
 	vendor/samsung/celoxhd/proprietary/etc/firmware/vidc_1080p.fw:system/etc/firmware/vidc_1080p.fw \
 	vendor/samsung/celoxhd/proprietary/etc/firmware/yamato_pfp.fw:system/etc/firmware/yamato_pfp.fw \
 	vendor/samsung/celoxhd/proprietary/etc/firmware/yamato_pm4.fw:system/etc/firmware/yamato_pm4.fw \
-	vendor/samsung/celoxhd/proprietary/lib/libdsm.so:system/lib/libdsm.so \
+	vendor/samsung/celoxhd/proprietary/lib/libdsm.so:system/lib/libdsm.so
